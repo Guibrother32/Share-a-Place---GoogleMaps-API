@@ -15,5 +15,6 @@ A webapp created to provide an interaction with GoogleMaps API. There you can lo
 Thats simple mate!
 
 - npm install (as always)
+- Insert your Google key wherever is shown a hide one -> (********).
 - npm run build:dev
 - localhost:8080
